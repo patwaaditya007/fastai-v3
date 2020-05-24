@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=144Yatl0TV_oER8u009EjaWMARfvZIw1y'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1-jycBUJkb8T6Nk-j3AnKCgUIuh1-JveC'
 export_file_name = 'cnn.pkl'
 
 classes = ['kanye','wiz']
